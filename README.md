@@ -1,6 +1,6 @@
 ![Header](github-header-image.png)
 
-<h2 align="center">I'll tell you a story about me..</h2>
+<h2 align="center">I'll tell you a story about myself</h2>
 <h6 align="left">A long time ago, in the galaxy far, far away...</h6>
 
 <img align="right" alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350" style="margin-left: 20px;" />
