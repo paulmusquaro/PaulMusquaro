@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Paul Musquaro</h1>
 <h3 align="center">A passionate Python developer from Ukraine</h3>
 
-<img align="right" alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350" border-radius="30px" />
+<img align="right" alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350" style="border-radius: 30px;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulmusquaro&label=Profile%20views&color=0e75b6&style=flat" alt="paulmusquaro" /> </p>
 
