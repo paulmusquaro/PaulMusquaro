@@ -3,10 +3,18 @@
 <h2 align="center">I'll tell you a story about myself..</h2>
 <h6 align="left">So. A long time ago, in the galaxy far, far away...</h6>
 
-<img align="right" alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350" style="margin-left: 20px;" />
+<table>
+  <tr>
+    <td style="text-align: justify; vertical-align: top;">
+      <p>I am a 22-year-old aspiring programmer who embarked on my coding journey in mid-2023. I started learning Python, drawn by its vast community, extensive resources, and beginner-friendly nature. Before this, I had a budding interest in web development, having explored HTML and CSS. Python quickly became my language of choice, offering me the tools to dive deeper into the world of technology. I am committed to continuous learning, exploring new technologies, and staying at the forefront of innovation as I grow in my programming career.</p>
+      <p>I absolutely love programming. In fact, there was one time when I spent nearly 16 hours straight working on a team project, completely absorbed in the process. During that time, I didn’t eat or drink anything—I was so focused on coding that I didn’t even notice the passing hours. It was an intense and rewarding experience that showed me how deep my passion for programming runs. It’s moments like these that solidify my commitment to the craft, and that’s exactly why I included this gif to the right—it's a reflection of how much I truly enjoy diving into the world of code.</p>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <img alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350">
+    </td>
+  </tr>
+</table>
 
-<p align="justify">I am a 22-year-old aspiring programmer who embarked on my coding journey in mid-2023. I started learning Python, drawn by its vast community, extensive resources, and beginner-friendly nature. Before this, I had a budding interest in web development, having explored HTML and CSS. Python quickly became my language of choice, offering me the tools to dive deeper into the world of technology. I am committed to continuous learning, exploring new technologies, and staying at the forefront of innovation as I grow in my programming career.</p>
-<p align="justify">I absolutely love programming. In fact, there was one time when I spent nearly 16 hours straight working on a team project, completely absorbed in the process. During that time, I didn’t eat or drink anything—I was so focused on coding that I didn’t even notice the passing hours. It was an intense and rewarding experience that showed me how deep my passion for programming runs. It’s moments like these that solidify my commitment to the craft, and that’s exactly why I included this gif to the right—it's a reflection of how much I truly enjoy diving into the world of code.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulmusquaro&label=Profile%20views&color=0e75b6&style=flat" alt="paulmusquaro" /> </p>
 
