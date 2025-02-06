@@ -6,4 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="200" />
+</p>
+
+
+
 ![sunrise](https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963)
