@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Paul Musquaro</h1>
 <h3 align="center">A passionate Python developer from Ukraine</h3>
 
-<img align="right" alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350" style="border-radius: 30px;" />
+<img align="right" alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350" style="margin-left: 20px;" />
 
 <p align="left">I am a 22-year-old aspiring programmer who embarked on my coding journey in mid-2023. I started learning Python, drawn by its vast community, extensive resources, and beginner-friendly nature. Before this, I had a budding interest in web development, having explored HTML and CSS. Python quickly became my language of choice, offering me the tools to dive deeper into the world of technology. I am committed to continuous learning, exploring new technologies, and staying at the forefront of innovation as I grow in my programming career.</p>
 
