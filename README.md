@@ -6,7 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-paulmusquaro/paulmusquaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![sunrise](https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963)
