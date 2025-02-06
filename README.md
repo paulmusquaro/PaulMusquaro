@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: flex-start; align-items: center; width: 100%; gap: 20px;">
   <div>
     <p>
       👋 Hi, I’m @paulmusquaro<br>
