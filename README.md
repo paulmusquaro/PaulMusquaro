@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <div>
     <p>
       👋 Hi, I’m @paulmusquaro<br>
@@ -14,5 +14,4 @@
     <img src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="200" />
   </div>
 </div>
-
 
