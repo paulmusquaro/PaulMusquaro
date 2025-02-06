@@ -10,7 +10,7 @@
       <p>I love programming so much that I once coded for 16 hours straight, completely absorbed and forgetting to eat or drink. Moments like these fuel my passion and commitment to continuous learning, innovation, and growth in my programming career.</p>
     </td>
     <td style="text-align: center; vertical-align: top;">
-      <img alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="350">
+      <img alt="I’ve been grinding non-stop for 24 hours" src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="300">
     </td>
   </tr>
 </table>
