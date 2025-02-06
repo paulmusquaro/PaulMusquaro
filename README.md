@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 
 <h2 align="center">I'll tell you a story about myself..</h2>
-<h6 align="left">So. A long time ago, in the galaxy far, far away...</h6>
+<h6 align="center">So. A long time ago, in the galaxy far, far away...</h6>
 
 <table>
   <tr>
