@@ -1,3 +1,7 @@
+<div align="right" style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="200" />
+</div>
+
 <div align="left" style="display: inline-block;">
   <p>
     👋 Hi, I’m @paulmusquaro<br>
@@ -10,6 +14,4 @@
   </p>
 </div>
 
-<div align="right" style="display: inline-block;">
-  <img src="https://github.com/user-attachments/assets/5c0807e6-68b2-486f-b393-39ec5f449963" width="200" />
-</div>
+
