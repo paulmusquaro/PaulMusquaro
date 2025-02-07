@@ -18,15 +18,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paulmusquaro&label=Profile%20views&color=0e75b6&style=flat" alt="paulmusquaro" /> </p>
 
-<p align="center">
-  <img src="https://www.codewars.com/users/paulmusquaro/badges/large" alt="Codewars Badge">
+<p align="left">
+  <img src="https://www.codewars.com/users/paulmusquaro/badges/large" alt="Codewars Badge" width="350">
   <br>
-  <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial&border=yellow" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" alt="LeetCode Stats" width="350">
 </p>
 
+<p>
+  <img align="right" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&theme=dark" 
+       alt="paulmusquaro" width="333">
+</p>
 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&" alt="paulmusquaro" /></p>
 
