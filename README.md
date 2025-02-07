@@ -20,5 +20,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&" alt="paulmusquaro" /></p>
+<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&" alt="paulmusquaro" /></p>
 
