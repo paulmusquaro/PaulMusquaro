@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/github/followers/paulmusquaro?label=Followers&style=flat&color=blue" width="190" height="35">
       <img src="https://komarev.com/ghpvc/?username=paulmusquaro&color=blue" width="190" height="35">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="400" height="150">
+      <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="400" height="160">
     </td>
   </tr>
 </table>
