@@ -1,4 +1,5 @@
-<h1 align="center">Hello World!</h1>
+<h2 align="center">#include <iostream> int main(){std::cout<<"Hello, World!\n";}
+</h2>
 
 <table>
   <tr>
