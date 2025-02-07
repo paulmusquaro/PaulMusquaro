@@ -1,7 +1,5 @@
-![Header](github-header-image.png)
-
-<h2 align="center">I'll tell you a bit about myself..</h2>
-<h6 align="center">So. A long time ago, in the galaxy far, far away...</h6>
+<h2 align="center">Hello World!</h2>
+<h6 align="center">I'll tell you a bit about myself..</h6>
 
 <table>
   <tr>
