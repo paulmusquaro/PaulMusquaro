@@ -18,7 +18,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paulmusquaro&label=Profile%20views&color=0e75b6&style=flat" alt="paulmusquaro" /> </p>
 
+![Codewars](https://www.codewars.com/users/paulmusquaro/badges/large)
+
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=paulmusquaro)
 
 
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&" alt="paulmusquaro" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&" alt="paulmusquaro" /></p>
 
