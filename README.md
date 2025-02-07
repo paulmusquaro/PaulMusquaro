@@ -1,5 +1,4 @@
 <h2 align="center">Hello World!</h2>
-<h6 align="center">I'll tell you a bit about myself..</h6>
 
 <table>
   <tr>
@@ -16,16 +15,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paulmusquaro&label=Profile%20views&color=0e75b6&style=flat" alt="paulmusquaro" /> </p>
 
-<p align="left">
-  <img src="https://www.codewars.com/users/paulmusquaro/badges/large" alt="Codewars Badge" width="350">
-  <br>
-  <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" alt="LeetCode Stats" width="350">
-</p>
-
-<p>
-  <img align="right" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=paulmusquaro&theme=dark" 
-       alt="paulmusquaro" width="333">
-</p>
 
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="https://www.codewars.com/users/paulmusquaro/badges/large" alt="Codewars Badge" width="350">
+    <br>
+    <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" alt="LeetCode Stats" width="350">
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=paulmusquaro&color=blue" width="350" height="40">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="340">
+  </div>
+</div>
