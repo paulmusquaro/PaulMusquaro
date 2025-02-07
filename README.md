@@ -13,10 +13,6 @@
 </table>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulmusquaro&label=Profile%20views&color=0e75b6&style=flat" alt="paulmusquaro" /> </p>
-
-
-
 <table>
   <tr>
     <td>
