@@ -34,3 +34,18 @@
 
 
 
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <h2>📈My Stats</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulmusquaro&theme=solarized" alt="Most used languages" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulmusquaro&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulmusquaro&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulmusquaro&theme=monokai" />
+  
+</div>
+<p>
