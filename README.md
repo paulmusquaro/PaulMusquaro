@@ -17,15 +17,16 @@
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img src="https://www.codewars.com/users/paulmusquaro/badges/large" alt="Codewars Badge" width="350">
-    <br>
-    <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" alt="LeetCode Stats" width="350">
-  </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=paulmusquaro&color=blue" width="350" height="40">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="340">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://www.codewars.com/users/paulmusquaro/badges/large" width="350">
+      <br>
+      <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" width="350">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="340">
+    </td>
+  </tr>
+</table>
+
