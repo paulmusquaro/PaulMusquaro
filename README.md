@@ -24,9 +24,9 @@
       <br>
       <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" width="400">
     </td>
-    <td>
-      <img src="https://img.shields.io/github/followers/paulmusquaro?label=Followers&style=flat&color=blue" width="150" height="35">
-      <img src="https://komarev.com/ghpvc/?username=paulmusquaro&color=blue" width="150" height="40">
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/paulmusquaro?label=Followers&style=flat&color=blue" width="190" height="35">
+      <img src="https://komarev.com/ghpvc/?username=paulmusquaro&color=blue" width="190" height="35">
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="400">
     </td>
