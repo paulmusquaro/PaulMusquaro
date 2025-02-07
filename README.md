@@ -20,12 +20,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://www.codewars.com/users/paulmusquaro/badges/large" width="350">
+      <img src="https://www.codewars.com/users/paulmusquaro/badges/large" width="400">
       <br>
-      <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" width="350">
+      <img src="https://leetcard.jacoblin.cool/paulmusquaro?theme=dark&font=Arial" width="400">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="340">
+      <img src="https://github-readme-stats.vercel.app/api?username=paulmusquaro&show_icons=true&theme=dark&hide_border=true" width="400">
     </td>
   </tr>
 </table>
