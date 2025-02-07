@@ -1,5 +1,4 @@
-<h2 align="center">#include <iostream> int main(){std::cout<<"Hello, World!\n";}
-</h2>
+<h1 align="center">__import__('sys').stdout.write("Hello, World!\n")</h1>
 
 <table>
   <tr>
